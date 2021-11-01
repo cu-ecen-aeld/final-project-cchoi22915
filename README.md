@@ -4,3 +4,5 @@ The goal for our project is to learn how to use beagle bone to interact with sen
 [Overview](https://github.com/cu-ecen-aeld/final-project-dazong-chen/wiki/Project-Overview)
 ### Project Milestone
 [Milestone](https://github.com/cu-ecen-aeld/final-project-dazong-chen/wiki/Project-Milestone)
+### Project Member
+Dazong Chen, Chris Choi
