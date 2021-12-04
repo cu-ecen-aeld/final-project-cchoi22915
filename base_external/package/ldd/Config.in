@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	select BR2_LINUX_KERNEL
+	help
+	  assignment7 ldd to add to buildroot trees and package builds
